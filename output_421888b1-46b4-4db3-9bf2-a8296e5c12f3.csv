@@ -1,0 +1,936 @@
+country,survey_year,hdi_category,indicator_name,reference,values
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Rang_IDH,,70
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,73
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,75
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,d,78
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,79
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,83
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,84
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,86
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,87
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,90
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,95
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,105
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,107
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,109
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,110
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,111
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,112
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,113
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,116
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,117
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,118
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,119
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,121
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,"d,h",122
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,125
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,126
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,128
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,131
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,134
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,"d,h",135
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,136
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,137
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,138
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,139
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,140
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,142
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,143
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,144
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,146
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,148
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,151
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,152
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,153
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,154
+Senegal,2005,LOW HUMAN DEVELOPMENT,Rang_IDH,,156
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Rang_IDH,,157
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Rang_IDH,,158
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Rang_IDH,,159
+Guinea,2005,LOW HUMAN DEVELOPMENT,Rang_IDH,,160
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Rang_IDH,,161
+Benin,2001,,Rang_IDH,,163
+Malawi,2000,,Rang_IDH,"d,h",164
+Zambia,2001-02,,Rang_IDH,,165
+Côte d'Ivoire,2005,,Rang_IDH,,166
+Ethiopia,2005,,Rang_IDH,,169
+Chad,2004,,Rang_IDH,,170
+Central African Republic,1994-95,,Rang_IDH,,171
+Mozambique,2003,,Rang_IDH,,172
+Mali,2001,,Rang_IDH,,173
+Niger,2006,,Rang_IDH,,174
+Burkina Faso,2003,,Rang_IDH,,176
+Sierra Leone,2005,,Rang_IDH,"d,h",177
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Birth_attended_Poor,,72
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,99
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,72
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,d,93
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,89
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,96
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,53
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,91
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,34
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,25
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,41
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,58
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,21
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,97
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,78
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,99
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,51
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,92
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,96
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,27
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,9
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,67
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,68
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,"d,h",69
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,55
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,30
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,16
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,21
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,26
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,"d,h",..
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,5
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,15
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,34
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,70
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,3
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,4
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,30
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,29
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,6
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,17
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,57
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,25
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,7
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,20
+Senegal,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,20
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,7
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,12
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,29
+Guinea,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,15
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Poor,,27
+Benin,2001,,Birth_attended_Poor,,50
+Malawi,2000,,Birth_attended_Poor,"d,h",43
+Zambia,2001-02,,Birth_attended_Poor,,20
+Côte d'Ivoire,2005,,Birth_attended_Poor,,27
+Ethiopia,2005,,Birth_attended_Poor,,1
+Chad,2004,,Birth_attended_Poor,,4
+Central African Republic,1994-95,,Birth_attended_Poor,,14
+Mozambique,2003,,Birth_attended_Poor,,25
+Mali,2001,,Birth_attended_Poor,,8
+Niger,2006,,Birth_attended_Poor,,21
+Burkina Faso,2003,,Birth_attended_Poor,,39
+Sierra Leone,2005,,Birth_attended_Poor,"d,h",27
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Birth_attended_Rich,,99
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,99
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,99
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,d,100
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,99
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,92
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,89
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,99
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,96
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,92
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,97
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,"d,h",91
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,97
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,95
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,84
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,90
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,85
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,"d,h",..
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,55
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,93
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,83
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,98
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,40
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,45
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,94
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,94
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,68
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,75
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,94
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,91
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,50
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,77
+Senegal,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,89
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,81
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,84
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,83
+Guinea,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,87
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Birth_attended_Rich,,66
+Benin,2001,,Birth_attended_Rich,,99
+Malawi,2000,,Birth_attended_Rich,"d,h",83
+Zambia,2001-02,,Birth_attended_Rich,,91
+Côte d'Ivoire,2005,,Birth_attended_Rich,,88
+Ethiopia,2005,,Birth_attended_Rich,,27
+Chad,2004,,Birth_attended_Rich,,55
+Central African Republic,1994-95,,Birth_attended_Rich,,82
+Mozambique,2003,,Birth_attended_Rich,,89
+Mali,2001,,Birth_attended_Rich,,82
+Niger,2006,,Birth_attended_Rich,,71
+Burkina Faso,2003,,Birth_attended_Rich,,91
+Sierra Leone,2005,,Birth_attended_Rich,"d,h",83
+Brazil,1996,HIGH HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,57
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,69
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,47
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,d,92
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,34
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,59
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,28
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,21
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,65
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,56
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,20
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,44
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,43
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,85
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,64
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,86
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,85
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,81
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,69
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,48
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,66
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,6
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,51
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,60
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,81
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,21
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,56
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,40
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,"d,h",62
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,23
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,16
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,66
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,29
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,57
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,54
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,32
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,36
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,34
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,40
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,64
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,22
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,8
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,27
+Senegal,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,59
+Eritrea,2002,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,74
+Nigeria,2003,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,3
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,53
+Guinea,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,29
+Rwanda,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,74
+Benin,2001,,One-year-olds  immunized_Poor,,49
+Malawi,2000,,One-year-olds  immunized_Poor,"d,h",65
+Zambia,2001-02,,One-year-olds  immunized_Poor,,64
+Côte d'Ivoire,2005,,One-year-olds  immunized_Poor,,..
+Ethiopia,2005,,One-year-olds  immunized_Poor,,14
+Chad,2004,,One-year-olds  immunized_Poor,,1
+Central African Republic,1994-95,,One-year-olds  immunized_Poor,,18
+Mozambique,2003,,One-year-olds  immunized_Poor,,45
+Mali,2001,,One-year-olds  immunized_Poor,,20
+Niger,2006,,One-year-olds  immunized_Poor,,20
+Burkina Faso,2003,,One-year-olds  immunized_Poor,,34
+Sierra Leone,2005,,One-year-olds  immunized_Poor,"d,h",..
+Brazil,1996,HIGH HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,74
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,62
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,72
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,d,86
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,47
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,51
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,70
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,17
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,73
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,83
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,53
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,92
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,72
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,78
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,71
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,86
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,91
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,78
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,73
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,57
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,56
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,24
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,70
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,68
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,97
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,64
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,76
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,82
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,"d,h",86
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,55
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,45
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,69
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,73
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,87
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,82
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,80
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,60
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,56
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,65
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,64
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,52
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,56
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,43
+Senegal,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,65
+Eritrea,2002,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,91
+Nigeria,2003,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,40
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,78
+Guinea,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,45
+Rwanda,2005,LOW HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,74
+Benin,2001,,One-year-olds  immunized_Rich,,73
+Malawi,2000,,One-year-olds  immunized_Rich,"d,h",81
+Zambia,2001-02,,One-year-olds  immunized_Rich,,80
+Côte d'Ivoire,2005,,One-year-olds  immunized_Rich,,..
+Ethiopia,2005,,One-year-olds  immunized_Rich,,36
+Chad,2004,,One-year-olds  immunized_Rich,,24
+Central African Republic,1994-95,,One-year-olds  immunized_Rich,,64
+Mozambique,2003,,One-year-olds  immunized_Rich,,90
+Mali,2001,,One-year-olds  immunized_Rich,,56
+Niger,2006,,One-year-olds  immunized_Rich,,48
+Burkina Faso,2003,,One-year-olds  immunized_Rich,,61
+Sierra Leone,2005,,One-year-olds  immunized_Rich,"d,h",..
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Child_underheight_ Poor,,23
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,15
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,20
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,d,16
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,14
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,15
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,29
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,14
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,46
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,..
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,23
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,..
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,..
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,25
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,35
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,14
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,24
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,40
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,34
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,42
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,65
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,33
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,..
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,"d,h",32
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,27
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,29
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,58
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,47
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,45
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,"d,h",31
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,61
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,39
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,47
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,32
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,54
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,62
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,51
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,41
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,34
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,38
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,33
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,29
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,58
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,43
+Senegal,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,26
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,45
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,49
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,50
+Guinea,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,41
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Poor,,55
+Benin,2001,,Child_underheight_ Poor,,35
+Malawi,2000,,Child_underheight_ Poor,"d,h",26
+Zambia,2001-02,,Child_underheight_ Poor,,54
+Côte d'Ivoire,2005,,Child_underheight_ Poor,,..
+Ethiopia,2005,,Child_underheight_ Poor,,48
+Chad,2004,,Child_underheight_ Poor,,51
+Central African Republic,1994-95,,Child_underheight_ Poor,,42
+Mozambique,2003,,Child_underheight_ Poor,,49
+Mali,2001,,Child_underheight_ Poor,,45
+Niger,2006,,Child_underheight_ Poor,,54
+Burkina Faso,2003,,Child_underheight_ Poor,,46
+Sierra Leone,2005,,Child_underheight_ Poor,"d,h",44
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Child_underheight_ Rich,,2
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,8
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,3
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,d,7
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,2
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,8
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,4
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,5
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,4
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,..
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,3
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,..
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,..
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,17
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,5
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,6
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,14
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,31
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,14
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,5
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,8
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,12
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,..
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,"d,h",21
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,15
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,10
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,27
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,19
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,23
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,"d,h",7
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,33
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,23
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,25
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,20
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,25
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,36
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,38
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,12
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,5
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,19
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,19
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,11
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,35
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,25
+Senegal,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,6
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,18
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,18
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,23
+Guinea,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,22
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Child_underheight_ Rich,,30
+Benin,2001,,Child_underheight_ Rich,,18
+Malawi,2000,,Child_underheight_ Rich,"d,h",23
+Zambia,2001-02,,Child_underheight_ Rich,,32
+Côte d'Ivoire,2005,,Child_underheight_ Rich,,..
+Ethiopia,2005,,Child_underheight_ Rich,,35
+Chad,2004,,Child_underheight_ Rich,,32
+Central African Republic,1994-95,,Child_underheight_ Rich,,25
+Mozambique,2003,,Child_underheight_ Rich,,20
+Mali,2001,,Child_underheight_ Rich,,20
+Niger,2006,,Child_underheight_ Rich,,37
+Burkina Faso,2003,,Child_underheight_ Rich,,21
+Sierra Leone,2005,,Child_underheight_ Rich,"d,h",26
+Brazil,1996,HIGH HUMAN DEVELOPMENT,IMR_Poor,,83
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,68
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,32
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,d,..
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,67
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,41
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,68
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,35
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,46
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,42
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,43
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,39
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,78
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,89
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,50
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,20
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,59
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,54
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,83
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,72
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,58
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,57
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,62
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,36
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,62
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,97
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,101
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,87
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,"d,h",75
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,89
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,61
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,88
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,91
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,90
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,86
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,87
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,101
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,78
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,96
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,59
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,84
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,109
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,106
+Senegal,2005,LOW HUMAN DEVELOPMENT,IMR_Poor,,89
+Eritrea,2002,LOW HUMAN DEVELOPMENT,IMR_Poor,,48
+Nigeria,2003,LOW HUMAN DEVELOPMENT,IMR_Poor,,133
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,IMR_Poor,,115
+Guinea,2005,LOW HUMAN DEVELOPMENT,IMR_Poor,,127
+Rwanda,2005,LOW HUMAN DEVELOPMENT,IMR_Poor,,114
+Benin,2001,,IMR_Poor,,112
+Malawi,2000,,IMR_Poor,"d,h",132
+Zambia,2001-02,,IMR_Poor,,115
+Côte d'Ivoire,2005,,IMR_Poor,,93
+Ethiopia,2005,,IMR_Poor,,80
+Chad,2004,,IMR_Poor,,109
+Central African Republic,1994-95,,IMR_Poor,,132
+Mozambique,2003,,IMR_Poor,,143
+Mali,2001,,IMR_Poor,,137
+Niger,2006,,IMR_Poor,,91
+Burkina Faso,2003,,IMR_Poor,,97
+Sierra Leone,2005,,IMR_Poor,"d,h",159
+Brazil,1996,HIGH HUMAN DEVELOPMENT,IMR_Rich,,29
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,42
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,14
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,d,..
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,23
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,14
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,30
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,23
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,6
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,19
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,16
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,14
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,23
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,58
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,16
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,16
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,23
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,46
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,46
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,27
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,39
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,36
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,17
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,23
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,24
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,38
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,34
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,65
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,"d,h",64
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,63
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,62
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,70
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,56
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,65
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,53
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,33
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,51
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,45
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,62
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,44
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,66
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,60
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,60
+Senegal,2005,LOW HUMAN DEVELOPMENT,IMR_Rich,,41
+Eritrea,2002,LOW HUMAN DEVELOPMENT,IMR_Rich,,38
+Nigeria,2003,LOW HUMAN DEVELOPMENT,IMR_Rich,,52
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,IMR_Rich,,92
+Guinea,2005,LOW HUMAN DEVELOPMENT,IMR_Rich,,68
+Rwanda,2005,LOW HUMAN DEVELOPMENT,IMR_Rich,,73
+Benin,2001,,IMR_Rich,,50
+Malawi,2000,,IMR_Rich,"d,h",86
+Zambia,2001-02,,IMR_Rich,,57
+Côte d'Ivoire,2005,,IMR_Rich,,79
+Ethiopia,2005,,IMR_Rich,,60
+Chad,2004,,IMR_Rich,,101
+Central African Republic,1994-95,,IMR_Rich,,54
+Mozambique,2003,,IMR_Rich,,71
+Mali,2001,,IMR_Rich,,90
+Niger,2006,,IMR_Rich,,67
+Burkina Faso,2003,,IMR_Rich,,78
+Sierra Leone,2005,,IMR_Rich,"d,h",108
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Under5_MR_Poor,,99
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,82
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,39
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,d,..
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,90
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,52
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,85
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,42
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,63
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,66
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,57
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,53
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,109
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,106
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,64
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,29
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,75
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,70
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,96
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,105
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,78
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,93
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,87
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,55
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,78
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,141
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,127
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,129
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,"d,h",118
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,125
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,98
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,114
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,135
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,121
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,130
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,142
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,189
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,125
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,149
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,100
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,168
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,163
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,192
+Senegal,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,183
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,100
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,257
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,160
+Guinea,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,217
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Poor,,211
+Benin,2001,,Under5_MR_Poor,,198
+Malawi,2000,,Under5_MR_Poor,"d,h",231
+Zambia,2001-02,,Under5_MR_Poor,,192
+Côte d'Ivoire,2005,,Under5_MR_Poor,,150
+Ethiopia,2005,,Under5_MR_Poor,,130
+Chad,2004,,Under5_MR_Poor,,176
+Central African Republic,1994-95,,Under5_MR_Poor,,193
+Mozambique,2003,,Under5_MR_Poor,,196
+Mali,2001,,Under5_MR_Poor,,248
+Niger,2006,,Under5_MR_Poor,,206
+Burkina Faso,2003,,Under5_MR_Poor,,206
+Sierra Leone,2005,,Under5_MR_Poor,"d,h",268
+Brazil,1996,HIGH HUMAN DEVELOPMENT,Under5_MR_Rich,,33
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,45
+Colombia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,16
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,d,..
+Dominican Republic,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,27
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,23
+Turkey,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,33
+Jordan,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,25
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,11
+Philippines,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,21
+Paraguay,1990,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,20
+Viet Nam,2002,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,16
+Indonesia,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,29
+Turkmenistan,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,70
+Nicaragua,2001,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,19
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,17
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,25
+Uzbekistan,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,50
+Kyrgyzstan,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,49
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,32
+Guatemala,1998-99,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,39
+Gabon,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,55
+South Africa,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,22
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,"d,h",..
+Namibia,2000,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,31
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,26
+India,1998-99,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,46
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,43
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,87
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,"d,h",100
+Pakistan,1990,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,74
+Mauritania,2000-01,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,79
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,82
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,85
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,72
+Nepal,2001,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,68
+Madagascar,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,49
+Cameroon,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,88
+Haiti,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,55
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,91
+Zimbabwe,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,62
+Togo,1998,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,97
+Yemen,1997,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,73
+Uganda,2000-01,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,106
+Senegal,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,64
+Eritrea,2002,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,65
+Nigeria,2003,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,79
+Tanzania (United Republic of),1999,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,135
+Guinea,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,113
+Rwanda,2005,LOW HUMAN DEVELOPMENT,Under5_MR_Rich,,122
+Benin,2001,,Under5_MR_Rich,,93
+Malawi,2000,,Under5_MR_Rich,"d,h",149
+Zambia,2001-02,,Under5_MR_Rich,,92
+Côte d'Ivoire,2005,,Under5_MR_Rich,,100
+Ethiopia,2005,,Under5_MR_Rich,,92
+Chad,2004,,Under5_MR_Rich,,187
+Central African Republic,1994-95,,Under5_MR_Rich,,98
+Mozambique,2003,,Under5_MR_Rich,,108
+Mali,2001,,Under5_MR_Rich,,148
+Niger,2006,,Under5_MR_Rich,,157
+Burkina Faso,2003,,Under5_MR_Rich,,144
+Sierra Leone,2005,,Under5_MR_Rich,"d,h",179
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,78
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,83
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,87
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,"c,f",111
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,112
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,117
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,122
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,126
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,131
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,135
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,138
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,139
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,e,140
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,f,148
+Malawi,2000,,Rang_IDH,,164
+Sierra Leone,2005,,Rang_IDH,,177
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,93
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,96
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,34
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,"c,f",99
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,51
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,27
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,69
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,30
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,21
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,..
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,34
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,70
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,e,3
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,f,17
+Malawi,2000,,Birth_attended_Poor,,43
+Sierra Leone,2005,,Birth_attended_Poor,,27
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,100
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,100
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,100
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,"c,f",100
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,96
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,98
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,91
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,95
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,90
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,..
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,83
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,98
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,e,40
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,f,75
+Malawi,2000,,Birth_attended_Rich,,83
+Sierra Leone,2005,,Birth_attended_Rich,,83
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,92
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,59
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,65
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,"c,f",86
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,85
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,48
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,81
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,56
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,62
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,66
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,29
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,e,57
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,f,40
+Malawi,2000,,One-year-olds  immunized_Poor,,65
+Sierra Leone,2005,,One-year-olds  immunized_Poor,,..
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,86
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,51
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,73
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,"c,f",86
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,91
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,57
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,97
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,76
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,86
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,69
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,73
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,e,87
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,f,65
+Malawi,2000,,One-year-olds  immunized_Rich,,81
+Sierra Leone,2005,,One-year-olds  immunized_Rich,,..
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,16
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,15
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,46
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,"c,f",14
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,24
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,42
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,32
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,29
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,47
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,31
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,47
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,32
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,e,54
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,f,38
+Malawi,2000,,Child_underheight_ Poor,,26
+Sierra Leone,2005,,Child_underheight_ Poor,,44
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,7
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,8
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,4
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,"c,f",6
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,14
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,5
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,21
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,10
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,19
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,7
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,25
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,20
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,e,25
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,f,19
+Malawi,2000,,Child_underheight_ Rich,,23
+Sierra Leone,2005,,Child_underheight_ Rich,,26
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,..
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,41
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,46
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,"c,f",20
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,59
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,72
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,62
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,101
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,75
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,88
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,91
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,e,90
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,f,96
+Malawi,2000,,IMR_Poor,,132
+Sierra Leone,2005,,IMR_Poor,,159
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,..
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,14
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,6
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,"c,f",16
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,23
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,27
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,24
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,34
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,64
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,70
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,56
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,e,65
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,f,62
+Malawi,2000,,IMR_Rich,,86
+Sierra Leone,2005,,IMR_Rich,,108
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,..
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,52
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,63
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,"c,f",29
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,75
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,105
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,78
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,127
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,118
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,114
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,135
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,e,121
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,f,149
+Malawi,2000,,Under5_MR_Poor,,231
+Sierra Leone,2005,,Under5_MR_Poor,,268
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,..
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,23
+Peru,2004-05,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,11
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,"c,f",17
+Egypt,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,25
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,32
+Tajikistan,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,..
+Morocco,2003-04,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,26
+Cambodia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,43
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,100
+Lesotho,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,82
+Congo,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,85
+Bangladesh,2004,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,e,72
+Kenya,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,f,91
+Malawi,2000,,Under5_MR_Rich,,149
+Sierra Leone,2005,,Under5_MR_Rich,,179
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,c,73
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,"c,e",83
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,f,111
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,c,99
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,"c,e",96
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,f,99
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,c,99
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,"c,e",100
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,f,100
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,c,69
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,"c,e",59
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,f,86
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,c,62
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,"c,e",51
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,f,86
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,c,15
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,"c,e",15
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,f,14
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,c,8
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,"c,e",8
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,f,6
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,c,68
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,"c,e",41
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,f,20
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,c,42
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,"c,e",14
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,f,16
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,c,82
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,"c,e",52
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,f,29
+Kazakhstan,1999,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,c,45
+Armenia,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,"c,e",23
+Moldova,2005,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,f,17
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,78
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,g,117
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,,135
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,93
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,g,27
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,,..
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,100
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,g,98
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,,..
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,92
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,g,48
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,,62
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,86
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,g,57
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,,86
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,16
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,g,42
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,,31
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,7
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,g,5
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,,7
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,..
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,g,72
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,,75
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,..
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,g,27
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,,64
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,..
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,g,105
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,,118
+Thailand,2005-06,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,..
+Bolivia,2003,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,g,32
+Ghana,2006,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,,100
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Rang_IDH,i,134
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Poor,i,26
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Birth_attended_Rich,i,85
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Poor,i,40
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,One-year-olds  immunized_Rich,i,82
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Poor,i,45
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Child_underheight_ Rich,i,23
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Poor,i,87
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,IMR_Rich,i,65
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Poor,i,129
+Comoros,1996,MEDIUM HUMAN DEVELOPMENT,Under5_MR_Rich,i,87

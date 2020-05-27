@@ -1,0 +1,51 @@
+{
+    "created": "2020-05-27",
+    "description": "This table presents data for developing countries based on data from DHS conducted since 1990.\n       Quintiles are defined by socioeconomic status in terms of assets or wealth, rather than in terms of income or consumption.\n       For details, see Macro International. 2007b",
+    "fields": [
+        {
+            "constraints": {
+                "required": true
+            },
+            "description": "Nom de chaque pays.",
+            "name": "country",
+            "title": "Country",
+            "type": "string"
+        },
+        {
+            "description": "year of survey for every country.",
+            "name": "survey_year",
+            "title": "Survey_year",
+            "type": "year"
+        },
+        {
+            "description": "Human Development Index Category derived from the HDI Rank.",
+            "name": "hdi_category",
+            "title": "HDI Category",
+            "type": "string"
+        },
+        {
+            "description": "Indicator described in the data series.",
+            "name": "indicator_name",
+            "title": "Indicator Name",
+            "type": "string"
+        },
+        {
+            "description": "Reference to data source.",
+            "name": "reference",
+            "title": "Reference",
+            "type": "string"
+        },
+        {
+            "constraints": {
+                "required": true
+            },
+            "description": "Value for the Year and Indicator Name.",
+            "name": "values",
+            "title": "Values",
+            "type": "number"
+        }
+    ],
+    "name": "child_and_demography",
+    "title": "Inequalities in maternal and child health",
+    "updated": "2020-05-27"
+}
